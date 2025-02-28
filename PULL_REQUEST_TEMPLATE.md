@@ -1,5 +1,3 @@
-## 🚀 Pull Request Template
-
 ### 📌 Summary
 <!-- Briefly describe the changes introduced in this PR. -->
 
